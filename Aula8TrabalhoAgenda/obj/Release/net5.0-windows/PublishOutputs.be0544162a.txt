@@ -1,0 +1,7 @@
+C:\Users\Tadeu\Desktop\Teste2\Resources\Bodo Amat.ttf
+C:\Users\Tadeu\Desktop\Teste2\Resources\Soda Land.ttf
+C:\Users\Tadeu\Desktop\Teste2\Aula8TrabalhoAgenda.exe
+C:\Users\Tadeu\Desktop\Teste2\Aula8TrabalhoAgenda.dll
+C:\Users\Tadeu\Desktop\Teste2\Aula8TrabalhoAgenda.deps.json
+C:\Users\Tadeu\Desktop\Teste2\Aula8TrabalhoAgenda.runtimeconfig.json
+C:\Users\Tadeu\Desktop\Teste2\Aula8TrabalhoAgenda.pdb

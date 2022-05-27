@@ -1,0 +1,13 @@
+C:\Users\Tadeu\Desktop\Teste3\Aula8TrabalhoAgenda.pdb
+C:\Users\Tadeu\Desktop\Teste3\Resources\Bodo Amat.ttf
+C:\Users\Tadeu\Desktop\Teste3\Resources\Soda Land.ttf
+C:\Users\Tadeu\Desktop\Teste3\clrcompression.dll
+C:\Users\Tadeu\Desktop\Teste3\clrjit.dll
+C:\Users\Tadeu\Desktop\Teste3\coreclr.dll
+C:\Users\Tadeu\Desktop\Teste3\mscordaccore.dll
+C:\Users\Tadeu\Desktop\Teste3\D3DCompiler_47_cor3.dll
+C:\Users\Tadeu\Desktop\Teste3\PenImc_cor3.dll
+C:\Users\Tadeu\Desktop\Teste3\PresentationNative_cor3.dll
+C:\Users\Tadeu\Desktop\Teste3\vcruntime140_cor3.dll
+C:\Users\Tadeu\Desktop\Teste3\wpfgfx_cor3.dll
+C:\Users\Tadeu\Desktop\Teste3\Aula8TrabalhoAgenda.exe

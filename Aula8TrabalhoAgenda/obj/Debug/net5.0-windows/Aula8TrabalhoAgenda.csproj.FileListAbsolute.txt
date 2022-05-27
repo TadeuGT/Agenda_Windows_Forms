@@ -19,3 +19,5 @@ C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\obj\De
 C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\obj\Debug\net5.0-windows\ref\Aula8TrabalhoAgenda.dll
 C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\obj\Debug\net5.0-windows\Aula8TrabalhoAgenda.FormInclusão.resources
 C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\obj\Debug\net5.0-windows\Aula8TrabalhoAgenda.FormInclusaoEvento.resources
+C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\bin\Debug\net5.0-windows\Resources\Bodo Amat.ttf
+C:\Users\Tadeu\source\repos\Diego\Aula8TrabalhoAgenda\Aula8TrabalhoAgenda\bin\Debug\net5.0-windows\Resources\Soda Land.ttf
